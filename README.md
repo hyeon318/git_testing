@@ -4,3 +4,4 @@ git init, add, commit, log test
 
 ## GUI 테스팅
 스파링 싫은데 좋아요
+조아요 기능 추가
